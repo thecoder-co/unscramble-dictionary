@@ -1,6 +1,6 @@
-import 'package:dictionary/dict.dart';
-import 'package:dictionary/home.dart';
-import 'package:dictionary/unscramble.dart';
+import 'package:dictionary/screens/dict.dart';
+import 'package:dictionary/screens/home.dart';
+import 'package:dictionary/screens/unscramble.dart';
 import 'package:flutter/material.dart';
 
 void main() {
