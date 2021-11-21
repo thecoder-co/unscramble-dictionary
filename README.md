@@ -17,6 +17,7 @@ https://owlbot.info/
 
 ## Unscrambling API: made by me, hehe😂😂
 https://unscramble.deta.dev
+https://github.com/thecoder-co/unscramble-api
 
 ## English words txt
 https://github.com/dwyl/english-words
